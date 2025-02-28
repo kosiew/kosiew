@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Rust
+
+![kosiew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kosiew&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosiew&layout=compact&theme=dark)
+
+
