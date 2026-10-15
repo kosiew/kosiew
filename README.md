@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 ![kosiew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kosiew&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kosiew&layout=compact&theme=dark)
 
-
-
+![My skyline](https://raw.githubusercontent.com/kosiew/kosiew/output/skyline.svg)
